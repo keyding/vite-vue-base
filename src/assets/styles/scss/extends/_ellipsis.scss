@@ -1,0 +1,6 @@
+// 超出省略号显示
+.ellipsis {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
